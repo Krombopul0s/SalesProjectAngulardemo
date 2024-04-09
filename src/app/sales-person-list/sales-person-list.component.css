@@ -1,0 +1,7 @@
+/*
+    create the style for setting table row background color to green
+*/
+tr.highlight td {
+    background-color: green;
+    font-weight: bold;
+}
